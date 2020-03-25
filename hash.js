@@ -1,9 +1,6 @@
 const crypto = require('crypto');
 var fs = require('fs');
 
-
-
-
 // Get process.stdin as the standard input object.
 var standard_input = process.stdin;
 
